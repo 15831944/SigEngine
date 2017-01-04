@@ -1,0 +1,9 @@
+; SigEngineD.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SigEngineD"
+DESCRIPTION  'SigEngineD DLL'
+
+EXPORTS
+    ; ComboTree
+    ; CPathSplit
+

@@ -1,0 +1,9 @@
+; SigEngine.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SigEngine"
+DESCRIPTION  'SigEngine DLL'
+
+EXPORTS
+    ; ComboTree
+    ; CPathSplit
+
